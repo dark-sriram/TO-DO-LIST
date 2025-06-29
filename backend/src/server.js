@@ -27,6 +27,3 @@ connectDB().then(() => {
     });
 });
 
-//pass GY7Zt60qxpHxAteA
-
-//mongodb+srv://sri812469:GY7Zt60qxpHxAteA@cluster0.sv1bszo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
